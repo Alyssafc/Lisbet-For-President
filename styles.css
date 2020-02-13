@@ -1,0 +1,19 @@
+p{
+    text-align: center;
+    font-family: 'Odibee Sans', cursive;
+    font-size:69px;
+}
+
+button{
+color:red;
+font-size:50px;
+
+}
+
+body{
+    background-color:pink;
+    text-align: center;
+}
+img{
+    border: 10px solid red;
+}
